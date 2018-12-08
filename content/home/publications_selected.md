@@ -32,3 +32,8 @@ list_format = 1
 publication_type = "-1"
 +++
 
+Qiao Xiang, X. Tony Wang, J. Jensen Zhang, Harvey Newman, Y. Richard Yang, Y. Jace Liu, Unicorn: Unified resource orchestration for multi-domain, geo-distributed data analytics, Future Generation Computer Systems, Volume 93, 2019, Pages 188-197, ISSN 0167-739X
+
+Fine-grained, multi-domain network resource abstraction as a fundamental primitive to enable high-performance, collaborative data sciences. Qiao Xiang, J. Jensen Zhang, X. Tony Wang, Y. Jace Liu, Chin Guok, Franke Le, John MacAuley, Harvey Newman, Y. Richard Yang. SC'18. 2018.
+
+Fine-Grained, Multi-Domain Network Resource Abstraction as a Fundamental Primitive to Enable High-Performance, Collaborative Data Sciences. Qiao Xiang, J. Jensen Zhang, X. Tony Wang, Y. Jace Liu, Chin Guok, Franke Le, John MacAuley, Harvey Newman, Y. Richard Yang. ACM SIG'COMM 2018 Posters, Demos, and Student Research Competition. 2018.

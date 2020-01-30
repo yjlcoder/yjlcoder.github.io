@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Homes on Yang Jace Liu</title>
+    <title>Homes on Yang Liu</title>
     <link>/home/</link>
-    <description>Recent content in Homes on Yang Jace Liu</description>
+    <description>Recent content in Homes on Yang Liu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0600</lastBuildDate>
     
 	<atom:link href="/home/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title></title>
       <link>/home/hero_carousel/</link>
-      <pubDate>Sun, 15 Oct 2017 00:00:00 +0800</pubDate>
+      <pubDate>Sun, 15 Oct 2017 00:00:00 -0600</pubDate>
       
       <guid>/home/hero_carousel/</guid>
       <description></description>
@@ -24,7 +24,7 @@
     <item>
       <title>Academic</title>
       <link>/home/hero/</link>
-      <pubDate>Sun, 15 Oct 2017 00:00:00 +0800</pubDate>
+      <pubDate>Sun, 15 Oct 2017 00:00:00 -0600</pubDate>
       
       <guid>/home/hero/</guid>
       <description>The highly flexible website framework for Hugo with an extensible plugin mechanism. Create a beautifully simple site in under 10 minutes 🚀 Latest release   Star</description>
@@ -33,16 +33,16 @@
     <item>
       <title></title>
       <link>/home/about/</link>
-      <pubDate>Sat, 08 Dec 2018 00:00:00 +0800</pubDate>
+      <pubDate>Sat, 08 Dec 2018 00:00:00 -0700</pubDate>
       
       <guid>/home/about/</guid>
-      <description>Biography TBD</description>
+      <description>Biography I took my undergrad program at Tongji University. After graduation, I worked on the research of Software Defined Networking (SDN) and Large-scale data transmission routing with Yale University, Caltech University, and CERN. Now I&amp;rsquo;m an M.Sc student at the University of Calgary, supervised by Dr. Mea Wang. My focus is on Multimedia Streaming and Video codecs. I&amp;rsquo;m looking for extending my research interest to Machine Learning and Virtualization as well.</description>
     </item>
     
     <item>
       <title>Selected Publications</title>
       <link>/home/publications_selected/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0800</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0600</pubDate>
       
       <guid>/home/publications_selected/</guid>
       <description>Qiao Xiang, X. Tony Wang, J. Jensen Zhang, Harvey Newman, Y. Richard Yang, Y. Jace Liu, Unicorn: Unified resource orchestration for multi-domain, geo-distributed data analytics, Future Generation Computer Systems, Volume 93, 2019, Pages 188-197, ISSN 0167-739X
@@ -52,7 +52,7 @@ Fine-grained, multi-domain network resource abstraction as a fundamental primiti
     <item>
       <title>Recent Publications</title>
       <link>/home/publications/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0800</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0600</pubDate>
       
       <guid>/home/publications/</guid>
       <description>Qiao Xiang, X. Tony Wang, J. Jensen Zhang, Harvey Newman, Y. Richard Yang, Y. Jace Liu, Unicorn: Unified resource orchestration for multi-domain, geo-distributed data analytics, Future Generation Computer Systems, Volume 93, 2019, Pages 188-197, ISSN 0167-739X
@@ -62,7 +62,7 @@ Fine-grained, multi-domain network resource abstraction as a fundamental primiti
     <item>
       <title>Selected Talks</title>
       <link>/home/talks_selected/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0800</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0600</pubDate>
       
       <guid>/home/talks_selected/</guid>
       <description></description>
@@ -71,7 +71,7 @@ Fine-grained, multi-domain network resource abstraction as a fundamental primiti
     <item>
       <title>Recent &amp; Upcoming Talks</title>
       <link>/home/talks/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0800</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0600</pubDate>
       
       <guid>/home/talks/</guid>
       <description></description>
@@ -80,7 +80,7 @@ Fine-grained, multi-domain network resource abstraction as a fundamental primiti
     <item>
       <title>Projects</title>
       <link>/home/projects/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0800</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0600</pubDate>
       
       <guid>/home/projects/</guid>
       <description></description>
@@ -89,7 +89,7 @@ Fine-grained, multi-domain network resource abstraction as a fundamental primiti
     <item>
       <title>Contact</title>
       <link>/home/contact/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0800</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0600</pubDate>
       
       <guid>/home/contact/</guid>
       <description></description>
